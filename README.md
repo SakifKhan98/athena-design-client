@@ -2,36 +2,31 @@
 
 ### Contributor Name:
 [Md Jidanul Hakim Jitu](https://github.com/jh-jitu)
-
-[Zabir Siddique](https://github.com/zabir1998)
-
 [Md Touhedul Haque](https://github.com/touhedulhaque)
 
-#### Live-Link: https://athena-design-demo.netlify.app/
+# Apartment Hunt(https://apartment-hunt-demo.netlify.app/) #
+
+1. This is a react based agency site where one can choose his apartment from the homepage and also can see the details. It has two different dashboards one for the clients and one for the admins. Both have different functionality.
+2. It has the login authentication .
+3. Admin can add any Rent House by using his dashboard.
+4. Customer can  see their bookings after login. As after login they will find their dashboard.
+5. Admin can monitor the booking list as there is a option in his dashboard and can also change the booking status.
 
 
-`Back to` [Resume of Haque](https://drive.google.com/file/d/1OPYsxd5woKjk59KSaLfclYRCAxCbx66D/view).
+## Used Frameworks/Library
 
-- A Reactjs design & responsive based Project.
-- An practiced project.
-- small team project.
-- focused on css, bootstrap, media-query.
 
-### `Technology used:`
-- React-Js 
-- bootstrap
-- css & html.
-- media query.
+1. React js
+2. React Router
+3. React hook
+4. Material UI
+5. React Bootstrap
+6. Firebase Authentication
+7. HTML/CSS
+8. etc.
 
-Back to [Resume of Haque](https://drive.google.com/file/d/1OPYsxd5woKjk59KSaLfclYRCAxCbx66D/view).
 
-Best Regards
+## Installation
+Download the Zip or Clone the git, then run
 
-Md Touhedul Haque
-
-Address: Bändlistrasse 25, 8064, Zurich.
-
-+41 (0) 789696677
-
-[GitHub](https://github.com/touhedulhaque)    [LinkedIn](https://www.linkedin.com/in/md-touhedul-haque)    [facebook](https://facebook.com/haque.touhedul)    [Twitter](https://twitter.com/HaqueTouhedul)    [Medium](https://haque-touhedul.medium.com/)
-
+`npm install`
