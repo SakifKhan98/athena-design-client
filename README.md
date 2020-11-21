@@ -1,10 +1,10 @@
-# Athena-design (A Reactjs design & responsive based project)
+# Apartment Hunt(https://apartment-hunt-demo.netlify.app/) #
 
 ### Contributor Name:
 [Md Jidanul Hakim Jitu](https://github.com/jh-jitu)
 [Md Touhedul Haque](https://github.com/touhedulhaque)
 
-# Apartment Hunt(https://apartment-hunt-demo.netlify.app/) #
+
 
 1. This is a react based agency site where one can choose his apartment from the homepage and also can see the details. It has two different dashboards one for the clients and one for the admins. Both have different functionality.
 2. It has the login authentication .
